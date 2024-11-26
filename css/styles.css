@@ -1,0 +1,44 @@
+﻿body {
+    background-color: black;
+    text-align: center;
+}
+
+
+h1, h3, p, ul {
+    color: white;
+}
+
+
+
+a {
+    color: blue;
+    text-decoration: underline;
+    margin: auto;
+}
+
+p {
+    margin: 50px 50px 15px 50px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+#CoverArt {
+    width: 140px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+iframe {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
